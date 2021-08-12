@@ -3,9 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import SignupScreen1 from './screens/SignupScreen1/SignupScreen1';
+import SignupScreen2 from './screens/SignupScreen2/SignupScreen2'
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* <SignupScreen1 /> */}
+    {/* <SignupScreen2 /> */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')

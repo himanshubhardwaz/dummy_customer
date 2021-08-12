@@ -1,0 +1,24 @@
+.profile {
+    display: flex;
+}
+
+.profile-image {
+    width: 124px;
+    height: 130px;
+    border-radius: 60px;
+    margin-left: 100px;
+}
+
+.profile-details {
+    margin-left: 80px;
+}
+
+.congo-text {
+    margin-top: 40px;
+    margin-left: 100px;
+    font-weight: 700;
+}
+
+.launguage-proficiency{
+    margin-left: 100px;
+}
